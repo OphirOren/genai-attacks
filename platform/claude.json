@@ -1,0 +1,14 @@
+{
+  "$id": "$gai-platform/claude",
+  "$schema": "../schema/platform.schema.json",
+  "$type": "platform",
+  "description": "Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work",
+  "external_references": [
+    {
+      "href": "https://claude.ai/",
+      "source": "Anthropic",
+      "title": "Claude"
+    }
+  ],
+  "name": "Claude"
+}
